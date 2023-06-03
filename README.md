@@ -13,3 +13,11 @@ https://laravel.com/docs/10.x/pint
 # PHP CS Fixer
 
 https://github.com/PHP-CS-Fixer/PHP-CS-Fixer
+
+## Before
+
+![](before-pint.png)
+
+## After
+
+![](after-pint.png)
