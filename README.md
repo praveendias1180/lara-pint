@@ -1,5 +1,7 @@
 # Pint
 
+## PHP + Lint = Pint (Same as PHP + Test =  Pest)
+
 The opinionated PHP code style fixer for minimalists.
 
 ![](pint.png)
